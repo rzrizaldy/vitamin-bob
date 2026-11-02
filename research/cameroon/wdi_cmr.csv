@@ -1,0 +1,22 @@
+indicator,name,year,value
+SP.POP.TOTL,"Population, total",2025,29879337
+SP.RUR.TOTL.ZS,Rural population (% of total population),2025,44.33
+NY.GDP.PCAP.CD,GDP per capita (current US$),2025,1972.38
+IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),2024,108.21
+IT.NET.USER.ZS,Individuals using the Internet (% of population),2024,46.26
+IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),2022,2.13
+EG.ELC.ACCS.ZS,Access to electricity (% of population),2024,72
+EG.ELC.ACCS.RU.ZS,"Access to electricity, rural (% of rural population)",2024,42.7
+EG.ELC.ACCS.UR.ZS,"Access to electricity, urban (% of urban population)",2024,95.6
+SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2022,0.14
+SH.MED.NUMW.P3,"Nurses and midwives (per 1,000 people)",2022,0.66
+SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),2023,79.1
+SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2023,4.55
+SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2023,67.65
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2024,64.8
+SH.STA.MMRT,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",2023,258
+SH.MLR.INCD.P3,"Incidence of malaria (per 1,000 population at risk)",2024,260.46
+SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2024,132
+SH.STA.BRTC.ZS,Births attended by skilled health staff (% of total),2018,69
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2024,63.97
+SI.POV.DDAY,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),2021,26.7

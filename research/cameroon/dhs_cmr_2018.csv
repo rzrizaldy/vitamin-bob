@@ -1,0 +1,181 @@
+indicator,name,breakdown,group,value
+RH_PAHC_W_MON,Women: problem getting money for treatment,Total,Total,67.3
+RH_PAHC_W_MON,Women: problem getting money for treatment,Residence,Urban,59.2
+RH_PAHC_W_MON,Women: problem getting money for treatment,Residence,Rural,77.4
+RH_PAHC_W_MON,Women: problem getting money for treatment,Region,Yaoundé/Douala,56.7
+RH_PAHC_W_MON,Women: problem getting money for treatment,Region,Yaoundé,64.2
+RH_PAHC_W_MON,Women: problem getting money for treatment,Region,Douala,49.9
+RH_PAHC_W_MON,Women: problem getting money for treatment,Region,Adamaoua/Nord/Extrême-Nord,77.9
+RH_PAHC_W_MON,Women: problem getting money for treatment,Region,Adamaoua,72.8
+RH_PAHC_W_MON,Women: problem getting money for treatment,Region,Nord,80.6
+RH_PAHC_W_MON,Women: problem getting money for treatment,Region,Extrême-Nord,77.1
+RH_PAHC_W_MON,Women: problem getting money for treatment,Region,Centre/Sud/Est,78.3
+RH_PAHC_W_MON,Women: problem getting money for treatment,Region,Centre,79.1
+RH_PAHC_W_MON,Women: problem getting money for treatment,Region,Sud,65.8
+RH_PAHC_W_MON,Women: problem getting money for treatment,Region,Est,87.5
+RH_PAHC_W_MON,Women: problem getting money for treatment,Region,Ouest/Littoral,57.9
+RH_PAHC_W_MON,Women: problem getting money for treatment,Region,Ouest,54.9
+RH_PAHC_W_MON,Women: problem getting money for treatment,Region,Littoral,66.4
+RH_PAHC_W_MON,Women: problem getting money for treatment,Region,Nord Ouest/Sud Ouest,45.6
+RH_PAHC_W_MON,Women: problem getting money for treatment,Region,Nord Ouest,48.6
+RH_PAHC_W_MON,Women: problem getting money for treatment,Region,Sud Ouest,36.9
+RH_PAHC_W_DIS,Women: problem with distance to facility,Total,Total,39.7
+RH_PAHC_W_DIS,Women: problem with distance to facility,Residence,Urban,27.8
+RH_PAHC_W_DIS,Women: problem with distance to facility,Residence,Rural,54.6
+RH_PAHC_W_DIS,Women: problem with distance to facility,Region,Yaoundé/Douala,24.1
+RH_PAHC_W_DIS,Women: problem with distance to facility,Region,Yaoundé,26.3
+RH_PAHC_W_DIS,Women: problem with distance to facility,Region,Douala,22.1
+RH_PAHC_W_DIS,Women: problem with distance to facility,Region,Adamaoua/Nord/Extrême-Nord,51.4
+RH_PAHC_W_DIS,Women: problem with distance to facility,Region,Adamaoua,60.4
+RH_PAHC_W_DIS,Women: problem with distance to facility,Region,Nord,54.9
+RH_PAHC_W_DIS,Women: problem with distance to facility,Region,Extrême-Nord,45.6
+RH_PAHC_W_DIS,Women: problem with distance to facility,Region,Centre/Sud/Est,54.2
+RH_PAHC_W_DIS,Women: problem with distance to facility,Region,Centre,57.9
+RH_PAHC_W_DIS,Women: problem with distance to facility,Region,Sud,36.3
+RH_PAHC_W_DIS,Women: problem with distance to facility,Region,Est,63.6
+RH_PAHC_W_DIS,Women: problem with distance to facility,Region,Ouest/Littoral,30.4
+RH_PAHC_W_DIS,Women: problem with distance to facility,Region,Ouest,26.6
+RH_PAHC_W_DIS,Women: problem with distance to facility,Region,Littoral,41.1
+RH_PAHC_W_DIS,Women: problem with distance to facility,Region,Nord Ouest/Sud Ouest,18.8
+RH_PAHC_W_DIS,Women: problem with distance to facility,Region,Nord Ouest,21.4
+RH_PAHC_W_DIS,Women: problem with distance to facility,Region,Sud Ouest,11.5
+RH_PAHC_W_PR1,Women: any problem accessing health care,Total,Total,72.4
+RH_PAHC_W_PR1,Women: any problem accessing health care,Residence,Urban,64.8
+RH_PAHC_W_PR1,Women: any problem accessing health care,Residence,Rural,81.9
+RH_PAHC_W_PR1,Women: any problem accessing health care,Region,Yaoundé/Douala,62.6
+RH_PAHC_W_PR1,Women: any problem accessing health care,Region,Yaoundé,69.5
+RH_PAHC_W_PR1,Women: any problem accessing health care,Region,Douala,56.4
+RH_PAHC_W_PR1,Women: any problem accessing health care,Region,Adamaoua/Nord/Extrême-Nord,82.2
+RH_PAHC_W_PR1,Women: any problem accessing health care,Region,Adamaoua,78.1
+RH_PAHC_W_PR1,Women: any problem accessing health care,Region,Nord,82.5
+RH_PAHC_W_PR1,Women: any problem accessing health care,Region,Extrême-Nord,83.3
+RH_PAHC_W_PR1,Women: any problem accessing health care,Region,Centre/Sud/Est,82
+RH_PAHC_W_PR1,Women: any problem accessing health care,Region,Centre,82.6
+RH_PAHC_W_PR1,Women: any problem accessing health care,Region,Sud,71.7
+RH_PAHC_W_PR1,Women: any problem accessing health care,Region,Est,89.8
+RH_PAHC_W_PR1,Women: any problem accessing health care,Region,Ouest/Littoral,64.7
+RH_PAHC_W_PR1,Women: any problem accessing health care,Region,Ouest,63.1
+RH_PAHC_W_PR1,Women: any problem accessing health care,Region,Littoral,69.3
+RH_PAHC_W_PR1,Women: any problem accessing health care,Region,Nord Ouest/Sud Ouest,51.6
+RH_PAHC_W_PR1,Women: any problem accessing health care,Region,Nord Ouest,54.7
+RH_PAHC_W_PR1,Women: any problem accessing health care,Region,Sud Ouest,42.7
+ML_FEVT_C_ADV,Children with fever: advice or treatment sought,Total,Total,61
+ML_FEVT_C_ADV,Children with fever: advice or treatment sought,Residence,Urban,67.7
+ML_FEVT_C_ADV,Children with fever: advice or treatment sought,Residence,Rural,56.4
+ML_FEVT_C_ADV,Children with fever: advice or treatment sought,Region,Yaoundé/Douala,69.4
+ML_FEVT_C_ADV,Children with fever: advice or treatment sought,Region,Yaoundé,73.5
+ML_FEVT_C_ADV,Children with fever: advice or treatment sought,Region,Douala,63.2
+ML_FEVT_C_ADV,Children with fever: advice or treatment sought,Region,Adamaoua/Nord/Extrême-Nord,58.1
+ML_FEVT_C_ADV,Children with fever: advice or treatment sought,Region,Adamaoua,43
+ML_FEVT_C_ADV,Children with fever: advice or treatment sought,Region,Nord,63.4
+ML_FEVT_C_ADV,Children with fever: advice or treatment sought,Region,Extrême-Nord,58.6
+ML_FEVT_C_ADV,Children with fever: advice or treatment sought,Region,Centre/Sud/Est,53.2
+ML_FEVT_C_ADV,Children with fever: advice or treatment sought,Region,Centre,58.9
+ML_FEVT_C_ADV,Children with fever: advice or treatment sought,Region,Sud,55.9
+ML_FEVT_C_ADV,Children with fever: advice or treatment sought,Region,Est,36.2
+ML_FEVT_C_ADV,Children with fever: advice or treatment sought,Region,Ouest/Littoral,73.6
+ML_FEVT_C_ADV,Children with fever: advice or treatment sought,Region,Ouest,76.2
+ML_FEVT_C_ADV,Children with fever: advice or treatment sought,Region,Littoral,58.7
+ML_FEVT_C_ADV,Children with fever: advice or treatment sought,Region,Nord Ouest/Sud Ouest,66
+ML_FEVT_C_ADV,Children with fever: advice or treatment sought,Region,Nord Ouest,59.9
+ML_FEVT_C_ADV,Children with fever: advice or treatment sought,Region,Sud Ouest,87.9
+ML_FEVT_C_ADS,Children with fever: advice or treatment sought same or next day,Total,Total,33.5
+ML_FEVT_C_ADS,Children with fever: advice or treatment sought same or next day,Residence,Urban,43.8
+ML_FEVT_C_ADS,Children with fever: advice or treatment sought same or next day,Residence,Rural,26.3
+ML_FEVT_C_ADS,Children with fever: advice or treatment sought same or next day,Region,Yaoundé/Douala,46.6
+ML_FEVT_C_ADS,Children with fever: advice or treatment sought same or next day,Region,Yaoundé,47.7
+ML_FEVT_C_ADS,Children with fever: advice or treatment sought same or next day,Region,Douala,44.8
+ML_FEVT_C_ADS,Children with fever: advice or treatment sought same or next day,Region,Adamaoua/Nord/Extrême-Nord,30.6
+ML_FEVT_C_ADS,Children with fever: advice or treatment sought same or next day,Region,Adamaoua,19.9
+ML_FEVT_C_ADS,Children with fever: advice or treatment sought same or next day,Region,Nord,31.9
+ML_FEVT_C_ADS,Children with fever: advice or treatment sought same or next day,Region,Extrême-Nord,32.3
+ML_FEVT_C_ADS,Children with fever: advice or treatment sought same or next day,Region,Centre/Sud/Est,25
+ML_FEVT_C_ADS,Children with fever: advice or treatment sought same or next day,Region,Centre,23.7
+ML_FEVT_C_ADS,Children with fever: advice or treatment sought same or next day,Region,Sud,41.4
+ML_FEVT_C_ADS,Children with fever: advice or treatment sought same or next day,Region,Est,15.3
+ML_FEVT_C_ADS,Children with fever: advice or treatment sought same or next day,Region,Ouest/Littoral,46.3
+ML_FEVT_C_ADS,Children with fever: advice or treatment sought same or next day,Region,Ouest,50.3
+ML_FEVT_C_ADS,Children with fever: advice or treatment sought same or next day,Region,Littoral,23.5
+ML_FEVT_C_ADS,Children with fever: advice or treatment sought same or next day,Region,Nord Ouest/Sud Ouest,31.5
+ML_FEVT_C_ADS,Children with fever: advice or treatment sought same or next day,Region,Nord Ouest,24.5
+ML_FEVT_C_ADS,Children with fever: advice or treatment sought same or next day,Region,Sud Ouest,57
+ML_PMAL_C_RDT,Malaria prevalence in children 6-59 months (RDT),Total,Total,24
+ML_PMAL_C_RDT,Malaria prevalence in children 6-59 months (RDT),Residence,Urban,14.2
+ML_PMAL_C_RDT,Malaria prevalence in children 6-59 months (RDT),Residence,Rural,31.6
+ML_PMAL_C_RDT,Malaria prevalence in children 6-59 months (RDT),Region,Yaoundé/Douala,11.2
+ML_PMAL_C_RDT,Malaria prevalence in children 6-59 months (RDT),Region,Yaoundé,14.4
+ML_PMAL_C_RDT,Malaria prevalence in children 6-59 months (RDT),Region,Douala,7.8
+ML_PMAL_C_RDT,Malaria prevalence in children 6-59 months (RDT),Region,Adamaoua/Nord/Extrême-Nord,24.6
+ML_PMAL_C_RDT,Malaria prevalence in children 6-59 months (RDT),Region,Adamaoua,32.2
+ML_PMAL_C_RDT,Malaria prevalence in children 6-59 months (RDT),Region,Nord,26
+ML_PMAL_C_RDT,Malaria prevalence in children 6-59 months (RDT),Region,Extrême-Nord,21.8
+ML_PMAL_C_RDT,Malaria prevalence in children 6-59 months (RDT),Region,Centre/Sud/Est,40.6
+ML_PMAL_C_RDT,Malaria prevalence in children 6-59 months (RDT),Region,Centre,46.8
+ML_PMAL_C_RDT,Malaria prevalence in children 6-59 months (RDT),Region,Sud,33.4
+ML_PMAL_C_RDT,Malaria prevalence in children 6-59 months (RDT),Region,Est,35.3
+ML_PMAL_C_RDT,Malaria prevalence in children 6-59 months (RDT),Region,Ouest/Littoral,17
+ML_PMAL_C_RDT,Malaria prevalence in children 6-59 months (RDT),Region,Ouest,15.8
+ML_PMAL_C_RDT,Malaria prevalence in children 6-59 months (RDT),Region,Littoral,20.6
+ML_PMAL_C_RDT,Malaria prevalence in children 6-59 months (RDT),Region,Nord Ouest/Sud Ouest,9.6
+ML_PMAL_C_RDT,Malaria prevalence in children 6-59 months (RDT),Region,Nord Ouest,9.5
+ML_PMAL_C_RDT,Malaria prevalence in children 6-59 months (RDT),Region,Sud Ouest,9.8
+CO_MOBB_W_MOB,Women who own a mobile phone,Total,Total,63.6
+CO_MOBB_W_MOB,Women who own a mobile phone,Residence,Urban,81.4
+CO_MOBB_W_MOB,Women who own a mobile phone,Residence,Rural,41.5
+CO_MOBB_W_MOB,Women who own a mobile phone,Region,Yaoundé/Douala,89
+CO_MOBB_W_MOB,Women who own a mobile phone,Region,Yaoundé,89.7
+CO_MOBB_W_MOB,Women who own a mobile phone,Region,Douala,88.3
+CO_MOBB_W_MOB,Women who own a mobile phone,Region,Adamaoua/Nord/Extrême-Nord,40.5
+CO_MOBB_W_MOB,Women who own a mobile phone,Region,Adamaoua,58.2
+CO_MOBB_W_MOB,Women who own a mobile phone,Region,Nord,37.5
+CO_MOBB_W_MOB,Women who own a mobile phone,Region,Extrême-Nord,37.4
+CO_MOBB_W_MOB,Women who own a mobile phone,Region,Centre/Sud/Est,58.8
+CO_MOBB_W_MOB,Women who own a mobile phone,Region,Centre,60.3
+CO_MOBB_W_MOB,Women who own a mobile phone,Region,Sud,65.2
+CO_MOBB_W_MOB,Women who own a mobile phone,Region,Est,50.9
+CO_MOBB_W_MOB,Women who own a mobile phone,Region,Ouest/Littoral,75.3
+CO_MOBB_W_MOB,Women who own a mobile phone,Region,Ouest,76
+CO_MOBB_W_MOB,Women who own a mobile phone,Region,Littoral,73.3
+CO_MOBB_W_MOB,Women who own a mobile phone,Region,Nord Ouest/Sud Ouest,72.5
+CO_MOBB_W_MOB,Women who own a mobile phone,Region,Nord Ouest,68.1
+CO_MOBB_W_MOB,Women who own a mobile phone,Region,Sud Ouest,85.2
+CO_MOBB_M_MOB,Men who own a mobile phone,Total,Total,76.9
+CO_MOBB_M_MOB,Men who own a mobile phone,Residence,Urban,87.5
+CO_MOBB_M_MOB,Men who own a mobile phone,Residence,Rural,64.1
+CO_MOBB_M_MOB,Men who own a mobile phone,Region,Yaoundé/Douala,92.8
+CO_MOBB_M_MOB,Men who own a mobile phone,Region,Yaoundé,94.2
+CO_MOBB_M_MOB,Men who own a mobile phone,Region,Douala,91.5
+CO_MOBB_M_MOB,Men who own a mobile phone,Region,Adamaoua/Nord/Extrême-Nord,66.2
+CO_MOBB_M_MOB,Men who own a mobile phone,Region,Adamaoua,81.7
+CO_MOBB_M_MOB,Men who own a mobile phone,Region,Nord,66.3
+CO_MOBB_M_MOB,Men who own a mobile phone,Region,Extrême-Nord,61.2
+CO_MOBB_M_MOB,Men who own a mobile phone,Region,Centre/Sud/Est,69.7
+CO_MOBB_M_MOB,Men who own a mobile phone,Region,Centre,71.9
+CO_MOBB_M_MOB,Men who own a mobile phone,Region,Sud,69.6
+CO_MOBB_M_MOB,Men who own a mobile phone,Region,Est,65.3
+CO_MOBB_M_MOB,Men who own a mobile phone,Region,Ouest/Littoral,84.6
+CO_MOBB_M_MOB,Men who own a mobile phone,Region,Ouest,84.3
+CO_MOBB_M_MOB,Men who own a mobile phone,Region,Littoral,85.3
+CO_MOBB_M_MOB,Men who own a mobile phone,Region,Nord Ouest/Sud Ouest,81.5
+CO_MOBB_M_MOB,Men who own a mobile phone,Region,Nord Ouest,78.5
+CO_MOBB_M_MOB,Men who own a mobile phone,Region,Sud Ouest,89.3
+HC_HEFF_H_MPH,Households possessing a mobile phone,Total,Total,85.4
+HC_HEFF_H_MPH,Households possessing a mobile phone,Residence,Urban,94.3
+HC_HEFF_H_MPH,Households possessing a mobile phone,Residence,Rural,74
+HC_HEFF_H_MPH,Households possessing a mobile phone,Region,Yaoundé/Douala,97.4
+HC_HEFF_H_MPH,Households possessing a mobile phone,Region,Yaoundé,97.7
+HC_HEFF_H_MPH,Households possessing a mobile phone,Region,Douala,97.1
+HC_HEFF_H_MPH,Households possessing a mobile phone,Region,Adamaoua/Nord/Extrême-Nord,73
+HC_HEFF_H_MPH,Households possessing a mobile phone,Region,Adamaoua,83.7
+HC_HEFF_H_MPH,Households possessing a mobile phone,Region,Nord,75.3
+HC_HEFF_H_MPH,Households possessing a mobile phone,Region,Extrême-Nord,68
+HC_HEFF_H_MPH,Households possessing a mobile phone,Region,Centre/Sud/Est,83.4
+HC_HEFF_H_MPH,Households possessing a mobile phone,Region,Centre,91.2
+HC_HEFF_H_MPH,Households possessing a mobile phone,Region,Sud,79.4
+HC_HEFF_H_MPH,Households possessing a mobile phone,Region,Est,74.9
+HC_HEFF_H_MPH,Households possessing a mobile phone,Region,Ouest/Littoral,93.7
+HC_HEFF_H_MPH,Households possessing a mobile phone,Region,Ouest,94.5
+HC_HEFF_H_MPH,Households possessing a mobile phone,Region,Littoral,91.7
+HC_HEFF_H_MPH,Households possessing a mobile phone,Region,Nord Ouest/Sud Ouest,87.2
+HC_HEFF_H_MPH,Households possessing a mobile phone,Region,Nord Ouest,83.5
+HC_HEFF_H_MPH,Households possessing a mobile phone,Region,Sud Ouest,97.3
