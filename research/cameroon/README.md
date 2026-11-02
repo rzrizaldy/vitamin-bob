@@ -41,7 +41,7 @@ Policy hooks (verified, MINPOSTEL's April 2024 ITU presentation):
 | Public facilities: health centres / hospitals | 2,829 / 184 | Maina 2019 | verified |
 | UHC service coverage index | 48 | WHO GHO | verified |
 | Health spending per person / out-of-pocket share | USD 79 / 68% | 2023 | verified (WDI) |
-| National HMIS | DHIS2 since 2014 | | verified, secondary |
+| National HMIS | DHIS2 nationwide since 2015 (2014 in other sources) | | verified, secondary |
 | Digital health strategy 2026-2030 | about USD 51 million | 2026 | verified, secondary |
 | Universal health coverage (CSU) phase 1 | launched April 2023 in Est; 5 regions | 2023 | verified, secondary |
 
