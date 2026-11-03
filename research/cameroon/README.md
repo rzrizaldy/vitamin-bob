@@ -45,6 +45,36 @@ Policy hooks (verified, MINPOSTEL's April 2024 ITU presentation):
 | Digital health strategy 2026-2030 | about USD 51 million | 2026 | verified, secondary |
 | Universal health coverage (CSU) phase 1 | launched April 2023 in Est; 5 regions | 2023 | verified, secondary |
 
+Public facilities by type (Maina et al. 2019, 3,061 Cameroon facilities, verified): 2,241 integrated health centres, 362 listed as health centres, 223 district medical centres, 165 district hospitals, 14 regional, 3 general and 2 central hospitals, 48 dispensaries.
+
+Benchmarks against Sub-Saharan Africa (SSA) and lower-middle income (LMIC), WDI API, verified (`wdi_benchmarks.csv`):
+
+| Measure | Cameroon | SSA | LMIC | Year |
+|---|---|---|---|---|
+| Physicians per 10,000 | 1.4 | 2.5 | 7.1 | 2022 |
+| Nurses and midwives per 10,000 | 6.6 | 16.2 | 16.5 | 2022 |
+| Health spending per person, USD | 79 | 79 | 85 | 2023 |
+| Out-of-pocket share of spending | 68% | 30% | 47% | 2023 |
+| Births with skilled attendant | 69% | 64% | 77% | 2018 / 2019 |
+| Under-5 deaths per 1,000 births | 65 | 71 | 44 | 2024 |
+
+Reading (inferred): spending per person is at the regional average, but households carry more than twice the regional out-of-pocket share and the workforce is less than half the regional level.
+
+### Tech backbone (added 2026-11-03)
+
+| What | Value | Year | Status |
+|---|---|---|---|
+| Submarine cables | SAT-3, WACS, SAIL, NCSCS (Kribi, Douala) | 2021 | verified, secondary |
+| National fibre backbone | close to 12,000 km (Camtel) | 2021 | verified, secondary |
+| Council towns with a fibre point | about 25% of 360 | 2020 | verified, secondary (Camtel document) |
+| Account ownership incl. mobile money | 61% (SSA 55% in 2021, LMIC 70%) | 2024 | verified (WDI) |
+
+Not found: a reliable mobile-money-only rate, ITU price baskets for Cameroon, tower counts, district coverage maps.
+
+### Readiness by region (added 2026-11-03)
+
+`regions_cmr.csv` joins DHS 2018 regional measures with public facility density (Maina 2019 counts / region area). Est is in the weakest third of the ten regions on six of seven measures (calculated, inferred): power, household phones, women's phones, facility density, distance and timely fever care. Nord and Extrême-Nord have weaker phone and power coverage. Centre and Littoral DHS values exclude Yaoundé and Douala; North-West and South-West were surveyed during the crisis.
+
 ## 3. Access to care
 
 DHS 2018 (EDSC-V), women 15-49 and children under 5. All verified from the DHS API.

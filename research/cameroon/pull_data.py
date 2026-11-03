@@ -1,7 +1,7 @@
 """Pull the Cameroon indicators used in the Cameroon brief.
 
 Sources: World Bank WDI API and the DHS Program API (2018 Cameroon DHS, EDSC-V).
-Writes wdi_cmr.csv and dhs_cmr_2018.csv next to this file. Standard library only.
+Writes wdi_cmr.csv, wdi_benchmarks.csv and dhs_cmr_2018.csv next to this file. Standard library only.
 
     python3 research/cameroon/pull_data.py
 """
@@ -32,7 +32,18 @@ DHS = {
     "ML_FEVT_C_ADV": "Children with fever: advice or treatment sought",
     "ML_FEVT_C_ADS": "Children with fever: advice or treatment sought same or next day",
     "ML_PMAL_C_RDT": "Malaria prevalence in children 6-59 months (RDT)",
+    "HC_ELEC_H_ELC": "Households with electricity",
+    "RH_DELP_C_DHF": "Live births in a health facility",
+    "CH_VACC_C_BAS": "Children 12-23 months with all basic vaccinations",
+    "RH_ANCN_W_N4P": "Women with 4+ antenatal care visits",
 }
+
+# Cameroon against Sub-Saharan Africa (SSF) and lower-middle income (LMC)
+BENCHMARKS = [
+    "SH.MED.PHYS.ZS", "SH.MED.NUMW.P3", "SH.XPD.CHEX.PC.CD", "SH.XPD.OOPC.CH.ZS",
+    "SH.STA.BRTC.ZS", "SH.DYN.MORT", "IT.CEL.SETS.P2", "IT.NET.USER.ZS",
+    "EG.ELC.ACCS.RU.ZS", "FX.OWN.TOTL.ZS",
+]
 
 
 def get(url):
@@ -50,6 +61,25 @@ def pull_wdi():
                          "year": latest["date"], "value": round(latest["value"], 2)})
     with open(OUT / "wdi_cmr.csv", "w", newline="") as f:
         w = csv.DictWriter(f, fieldnames=["indicator", "name", "year", "value"])
+        w.writeheader()
+        w.writerows(rows)
+    return len(rows)
+
+
+def pull_benchmarks():
+    rows = []
+    for ind in BENCHMARKS:
+        data = get(f"https://api.worldbank.org/v2/country/CMR;SSF;LMC/indicator/{ind}?format=json&mrv=8&per_page=200")
+        seen = set()
+        for r in data[1] or []:
+            area = r["countryiso3code"] or r["country"]["id"]
+            if r["value"] is None or area in seen:
+                continue
+            seen.add(area)
+            rows.append({"indicator": ind, "name": r["indicator"]["value"], "area": r["country"]["value"],
+                         "year": r["date"], "value": round(r["value"], 2)})
+    with open(OUT / "wdi_benchmarks.csv", "w", newline="") as f:
+        w = csv.DictWriter(f, fieldnames=["indicator", "name", "area", "year", "value"])
         w.writeheader()
         w.writerows(rows)
     return len(rows)
@@ -73,4 +103,5 @@ def pull_dhs():
 
 if __name__ == "__main__":
     print(f"WDI rows: {pull_wdi()}")
+    print(f"Benchmark rows: {pull_benchmarks()}")
     print(f"DHS rows: {pull_dhs()}")

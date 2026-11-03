@@ -1,4 +1,124 @@
 indicator,name,breakdown,group,value
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Total,Total,63.1
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Total,Total,64.9
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Total,Total,63.3
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Residence,Urban,77.8
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Residence,Urban,78.7
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Residence,Urban,77.2
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Residence,Rural,51.2
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Residence,Rural,52.2
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Residence,Rural,52.5
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Region,Yaoundé/Douala,86.9
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Region,Yaoundé/Douala,87.5
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Region,Yaoundé/Douala,85.9
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Region,Yaoundé,83.3
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Region,Yaoundé,83.2
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Region,Yaoundé,81.6
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Region,Douala,90.9
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Region,Douala,91.8
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Region,Douala,90.5
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Region,Adamaoua/Nord/Extrême-Nord,45.5
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Region,Adamaoua/Nord/Extrême-Nord,46.3
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Region,Adamaoua/Nord/Extrême-Nord,46.8
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Region,Adamaoua,43.9
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Region,Adamaoua,43.6
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Region,Adamaoua,43
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Region,Nord,45
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Region,Nord,47.1
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Region,Nord,46.5
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Region,Extrême-Nord,46.3
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Region,Extrême-Nord,46.4
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Region,Extrême-Nord,47.9
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Region,Centre/Sud/Est,57.7
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Region,Centre/Sud/Est,60.1
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Region,Centre/Sud/Est,58.1
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Region,Centre,60.5
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Region,Centre,64.1
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Region,Centre,61.3
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Region,Sud,59.1
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Region,Sud,59.8
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Region,Sud,58.7
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Region,Est,52.6
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Region,Est,54
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Region,Est,52.8
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Region,Ouest/Littoral,80.3
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Region,Ouest/Littoral,80.9
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Region,Ouest/Littoral,80.2
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Region,Ouest,80.5
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Region,Ouest,80.7
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Region,Ouest,81
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Region,Littoral,79.4
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Region,Littoral,81.3
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Region,Littoral,77.5
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Region,Nord Ouest/Sud Ouest,83.6
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Region,Nord Ouest/Sud Ouest,84
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Region,Nord Ouest/Sud Ouest,84.7
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Region,Nord Ouest,81.8
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Region,Nord Ouest,82.3
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Region,Nord Ouest,83.6
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Region,Sud Ouest,92.3
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Region,Sud Ouest,90.8
+RH_ANCN_W_N4P,Women with 4+ antenatal care visits,Region,Sud Ouest,91
+RH_DELP_C_DHF,Live births in a health facility,Total,Total,67.4
+RH_DELP_C_DHF,Live births in a health facility,Total,Total,67
+RH_DELP_C_DHF,Live births in a health facility,Total,Total,67.9
+RH_DELP_C_DHF,Live births in a health facility,Residence,Urban,87.9
+RH_DELP_C_DHF,Live births in a health facility,Residence,Urban,88.4
+RH_DELP_C_DHF,Live births in a health facility,Residence,Urban,88.7
+RH_DELP_C_DHF,Live births in a health facility,Residence,Rural,50.9
+RH_DELP_C_DHF,Live births in a health facility,Residence,Rural,49.7
+RH_DELP_C_DHF,Live births in a health facility,Residence,Rural,51.6
+RH_DELP_C_DHF,Live births in a health facility,Region,Yaoundé/Douala,94.3
+RH_DELP_C_DHF,Live births in a health facility,Region,Yaoundé/Douala,95.2
+RH_DELP_C_DHF,Live births in a health facility,Region,Yaoundé/Douala,95.7
+RH_DELP_C_DHF,Live births in a health facility,Region,Yaoundé,91.7
+RH_DELP_C_DHF,Live births in a health facility,Region,Yaoundé,92.5
+RH_DELP_C_DHF,Live births in a health facility,Region,Yaoundé,93.3
+RH_DELP_C_DHF,Live births in a health facility,Region,Douala,97.3
+RH_DELP_C_DHF,Live births in a health facility,Region,Douala,98
+RH_DELP_C_DHF,Live births in a health facility,Region,Douala,98.3
+RH_DELP_C_DHF,Live births in a health facility,Region,Adamaoua/Nord/Extrême-Nord,39.7
+RH_DELP_C_DHF,Live births in a health facility,Region,Adamaoua/Nord/Extrême-Nord,38.4
+RH_DELP_C_DHF,Live births in a health facility,Region,Adamaoua/Nord/Extrême-Nord,40.5
+RH_DELP_C_DHF,Live births in a health facility,Region,Adamaoua,48.9
+RH_DELP_C_DHF,Live births in a health facility,Region,Adamaoua,46
+RH_DELP_C_DHF,Live births in a health facility,Region,Adamaoua,48.3
+RH_DELP_C_DHF,Live births in a health facility,Region,Nord,38.5
+RH_DELP_C_DHF,Live births in a health facility,Region,Nord,36.8
+RH_DELP_C_DHF,Live births in a health facility,Region,Nord,40.2
+RH_DELP_C_DHF,Live births in a health facility,Region,Extrême-Nord,38.4
+RH_DELP_C_DHF,Live births in a health facility,Region,Extrême-Nord,37.8
+RH_DELP_C_DHF,Live births in a health facility,Region,Extrême-Nord,38.9
+RH_DELP_C_DHF,Live births in a health facility,Region,Centre/Sud/Est,69.5
+RH_DELP_C_DHF,Live births in a health facility,Region,Centre/Sud/Est,70.5
+RH_DELP_C_DHF,Live births in a health facility,Region,Centre/Sud/Est,69.4
+RH_DELP_C_DHF,Live births in a health facility,Region,Centre,74.5
+RH_DELP_C_DHF,Live births in a health facility,Region,Centre,75.8
+RH_DELP_C_DHF,Live births in a health facility,Region,Centre,74.2
+RH_DELP_C_DHF,Live births in a health facility,Region,Sud,77.9
+RH_DELP_C_DHF,Live births in a health facility,Region,Sud,79.8
+RH_DELP_C_DHF,Live births in a health facility,Region,Sud,78.3
+RH_DELP_C_DHF,Live births in a health facility,Region,Est,56.5
+RH_DELP_C_DHF,Live births in a health facility,Region,Est,56.2
+RH_DELP_C_DHF,Live births in a health facility,Region,Est,56.4
+RH_DELP_C_DHF,Live births in a health facility,Region,Ouest/Littoral,95.4
+RH_DELP_C_DHF,Live births in a health facility,Region,Ouest/Littoral,95.8
+RH_DELP_C_DHF,Live births in a health facility,Region,Ouest/Littoral,95
+RH_DELP_C_DHF,Live births in a health facility,Region,Ouest,95.4
+RH_DELP_C_DHF,Live births in a health facility,Region,Ouest,96
+RH_DELP_C_DHF,Live births in a health facility,Region,Ouest,95
+RH_DELP_C_DHF,Live births in a health facility,Region,Littoral,95.3
+RH_DELP_C_DHF,Live births in a health facility,Region,Littoral,95.1
+RH_DELP_C_DHF,Live births in a health facility,Region,Littoral,95
+RH_DELP_C_DHF,Live births in a health facility,Region,Nord Ouest/Sud Ouest,91.8
+RH_DELP_C_DHF,Live births in a health facility,Region,Nord Ouest/Sud Ouest,92.1
+RH_DELP_C_DHF,Live births in a health facility,Region,Nord Ouest/Sud Ouest,94.7
+RH_DELP_C_DHF,Live births in a health facility,Region,Nord Ouest,90.3
+RH_DELP_C_DHF,Live births in a health facility,Region,Nord Ouest,90.4
+RH_DELP_C_DHF,Live births in a health facility,Region,Nord Ouest,93.7
+RH_DELP_C_DHF,Live births in a health facility,Region,Sud Ouest,100
+RH_DELP_C_DHF,Live births in a health facility,Region,Sud Ouest,99.4
+RH_DELP_C_DHF,Live births in a health facility,Region,Sud Ouest,100
 RH_PAHC_W_MON,Women: problem getting money for treatment,Total,Total,67.3
 RH_PAHC_W_MON,Women: problem getting money for treatment,Residence,Urban,59.2
 RH_PAHC_W_MON,Women: problem getting money for treatment,Residence,Rural,77.4
@@ -59,6 +179,25 @@ RH_PAHC_W_PR1,Women: any problem accessing health care,Region,Littoral,69.3
 RH_PAHC_W_PR1,Women: any problem accessing health care,Region,Nord Ouest/Sud Ouest,51.6
 RH_PAHC_W_PR1,Women: any problem accessing health care,Region,Nord Ouest,54.7
 RH_PAHC_W_PR1,Women: any problem accessing health care,Region,Sud Ouest,42.7
+CH_VACC_C_BAS,Children 12-23 months with all basic vaccinations,Total,Total,52.2
+CH_VACC_C_BAS,Children 12-23 months with all basic vaccinations,Residence,Urban,61.2
+CH_VACC_C_BAS,Children 12-23 months with all basic vaccinations,Residence,Rural,45.3
+CH_VACC_C_BAS,Children 12-23 months with all basic vaccinations,Region,Yaoundé/Douala,67.1
+CH_VACC_C_BAS,Children 12-23 months with all basic vaccinations,Region,Yaoundé,61.6
+CH_VACC_C_BAS,Children 12-23 months with all basic vaccinations,Region,Douala,73.6
+CH_VACC_C_BAS,Children 12-23 months with all basic vaccinations,Region,Adamaoua/Nord/Extrême-Nord,37.7
+CH_VACC_C_BAS,Children 12-23 months with all basic vaccinations,Region,Adamaoua,38
+CH_VACC_C_BAS,Children 12-23 months with all basic vaccinations,Region,Nord,35.7
+CH_VACC_C_BAS,Children 12-23 months with all basic vaccinations,Region,Extrême-Nord,39.3
+CH_VACC_C_BAS,Children 12-23 months with all basic vaccinations,Region,Centre/Sud/Est,59.5
+CH_VACC_C_BAS,Children 12-23 months with all basic vaccinations,Region,Centre,59.6
+CH_VACC_C_BAS,Children 12-23 months with all basic vaccinations,Region,Sud,63.4
+CH_VACC_C_BAS,Children 12-23 months with all basic vaccinations,Region,Est,56.7
+CH_VACC_C_BAS,Children 12-23 months with all basic vaccinations,Region,Ouest/Littoral,55.5
+CH_VACC_C_BAS,Children 12-23 months with all basic vaccinations,Region,Ouest,54.4
+CH_VACC_C_BAS,Children 12-23 months with all basic vaccinations,Region,Littoral,59.9
+CH_VACC_C_BAS,Children 12-23 months with all basic vaccinations,Region,Nord Ouest/Sud Ouest,68.5
+CH_VACC_C_BAS,Children 12-23 months with all basic vaccinations,Region,Nord Ouest,67.8
 ML_FEVT_C_ADV,Children with fever: advice or treatment sought,Total,Total,61
 ML_FEVT_C_ADV,Children with fever: advice or treatment sought,Residence,Urban,67.7
 ML_FEVT_C_ADV,Children with fever: advice or treatment sought,Residence,Rural,56.4
@@ -159,6 +298,26 @@ CO_MOBB_M_MOB,Men who own a mobile phone,Region,Littoral,85.3
 CO_MOBB_M_MOB,Men who own a mobile phone,Region,Nord Ouest/Sud Ouest,81.5
 CO_MOBB_M_MOB,Men who own a mobile phone,Region,Nord Ouest,78.5
 CO_MOBB_M_MOB,Men who own a mobile phone,Region,Sud Ouest,89.3
+HC_ELEC_H_ELC,Households with electricity,Total,Total,62.2
+HC_ELEC_H_ELC,Households with electricity,Residence,Urban,90
+HC_ELEC_H_ELC,Households with electricity,Residence,Rural,26.7
+HC_ELEC_H_ELC,Households with electricity,Region,Yaoundé/Douala,98.7
+HC_ELEC_H_ELC,Households with electricity,Region,Yaoundé,98.9
+HC_ELEC_H_ELC,Households with electricity,Region,Douala,98.6
+HC_ELEC_H_ELC,Households with electricity,Region,Adamaoua/Nord/Extrême-Nord,26.5
+HC_ELEC_H_ELC,Households with electricity,Region,Adamaoua,46.3
+HC_ELEC_H_ELC,Households with electricity,Region,Nord,27.3
+HC_ELEC_H_ELC,Households with electricity,Region,Extrême-Nord,19.6
+HC_ELEC_H_ELC,Households with electricity,Region,Centre/Sud/Est,57.8
+HC_ELEC_H_ELC,Households with electricity,Region,Centre,60.8
+HC_ELEC_H_ELC,Households with electricity,Region,Sud,71.5
+HC_ELEC_H_ELC,Households with electricity,Region,Est,44.2
+HC_ELEC_H_ELC,Households with electricity,Region,Ouest/Littoral,80.3
+HC_ELEC_H_ELC,Households with electricity,Region,Ouest,79.2
+HC_ELEC_H_ELC,Households with electricity,Region,Littoral,83
+HC_ELEC_H_ELC,Households with electricity,Region,Nord Ouest/Sud Ouest,69.3
+HC_ELEC_H_ELC,Households with electricity,Region,Nord Ouest,58.8
+HC_ELEC_H_ELC,Households with electricity,Region,Sud Ouest,98
 HC_HEFF_H_MPH,Households possessing a mobile phone,Total,Total,85.4
 HC_HEFF_H_MPH,Households possessing a mobile phone,Residence,Urban,94.3
 HC_HEFF_H_MPH,Households possessing a mobile phone,Residence,Rural,74
