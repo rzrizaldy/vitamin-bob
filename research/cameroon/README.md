@@ -4,6 +4,8 @@ Prepared 2026-11-02 for a pilot conversation with a World Bank health programme 
 Every number below has a row in [`sources.csv`](sources.csv) (source, year, URL, status).
 Status labels: **verified** (read from the source), **inferred** (reasoned from verified data), **guessed** (not yet checked).
 Re-pull the WDI and DHS numbers with `python3 research/cameroon/pull_data.py`.
+How the pilot deck grew to 14 slides, and what is still open: [`CONTEXT.md`](CONTEXT.md).
+2022 data update, regional dashboard and the Extrême-Nord / Nord slide plan (numbers not yet re-checked): [`GRAND_NORD.md`](GRAND_NORD.md).
 
 ## The short version
 

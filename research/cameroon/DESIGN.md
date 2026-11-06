@@ -64,3 +64,10 @@ All from Wikimedia Commons, CC BY-SA 4.0:
 - [Phone accessories vendor](https://commons.wikimedia.org/wiki/File:Vendeur_ambulant_d%27accessoires_electroniques.jpg), Minette Lontsie
 
 The dashboard screenshot on the product slide is from the team's India demo, with dummy cases.
+
+Public domain, US President's Malaria Initiative (Jhpiego/D. Burke, Kribi District, 2015), via Wikimedia Commons:
+
+- [Children under a treated bed net](https://commons.wikimedia.org/wiki/File:Children_under_mosquito_net_(26483462482).jpg) (disease burden slide)
+- [Nurse counselling mothers on malaria](https://commons.wikimedia.org/wiki/File:Jhpiego_3_(26549668746).jpg) (open questions slide)
+
+Region map outlines: [geoBoundaries](https://www.geoboundaries.org/) CMR ADM1, CC BY 3.0, simplified.
