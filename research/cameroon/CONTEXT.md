@@ -24,7 +24,23 @@ Speaker notes stay out of this repo (see [`DESIGN.md`](DESIGN.md)). This file su
 5. Added four evidence slides, then a region map, two real photos, an executive summary and a gap and moat slide. Renumbered labels, exhibits and page numbers throughout.
 6. Checked the new and changed slides in a local render (overflow, footer on one line, nothing past y 930). The live deck was not viewed because the browser pane is not signed in to claude.ai.
 
-## Deck now: 14 slides
+## Second pass: 17 slides (later on 2026-11-05)
+
+Decision: the deck shows **both Est and Nord** as candidate pilot regions and asks MINSANTE to choose. The current order is in [`DESIGN.md`](DESIGN.md).
+
+What changed:
+
+- **New slide 5, Why families skip care (Exhibit 2):** MIS 2022 Table 4.5. No money 46.9%, not serious 43.6%, too far 4.2%. It maps each reason to what Bob does: core job, one clip, not Bob's lever.
+- **New slide 13, Two candidate sites (Exhibit 15):** Est vs Nord, with Extrême-Nord for reference, on seven MIS 2022 measures, plus "Est: Bob as built" and "Nord: Bob adapted, health workers call".
+- **New slide 16, Measuring impact (Exhibit 17):** metrics with 2022 baselines for Est and Nord, a comparison district, and a clinician review of every call.
+- **Summary:** the gap is now 13% (2022) and names money and severity, not distance. The ask is Est or Nord, starting with a French keypad line and a free-care message.
+- **Access gap slide:** "64% cite distance" replaced by "money tops the list (88%)"; the notes explain perceived vs actual barriers.
+- **Proposal:** phase 1 is now "Protocol review, French keypad line, free-care clip, short code".
+- **Renumbering:** labels 01 to 14, Exhibits 1 to 17, pages "/ 17".
+
+Every new number was checked in the MIS 2022 report and logged as `sources.csv` rows M01 to M12. Two findings strengthen the free-care clip: free under-5 malaria treatment has been law since 2011 and 2014, yet only 5% of treated children got care free.
+
+## First pass: 14 slides
 
 | # | Id | Label | Takeaway | Exhibits | Origin |
 |---|---|---|---|---|---|
@@ -146,8 +162,9 @@ Recommended first step: a free, keypad-only French line for community health wor
 - Cost a solar-powered district hub.
 - Scan for any existing patient-facing call or IVR health line in Cameroon.
 - View the live deck once signed in, to confirm the published rendering matches the local check.
-- Decide between Est (this deck) and Nord then Extrême-Nord ([`GRAND_NORD.md`](GRAND_NORD.md)) as the pilot focus, and update the slides listed in its section 8.
-- Check the MIS 2022 figures in `GRAND_NORD.md` against the report and add them to `sources.csv`.
+- MINSANTE to choose between Est and Nord (the deck now shows both).
+- Check the remaining MIS 2022 and other figures in `GRAND_NORD.md` (sections 2, 4 and 5) that are not yet in `sources.csv`.
+- Update Exhibit 13 (readiness by region) and the map's malaria labels from DHS 2018 to MIS 2022 where regional values exist.
 - Ask Meet to share the regional dashboard, or export its CSVs into this folder.
 
 ## Files changed in this folder (not committed)

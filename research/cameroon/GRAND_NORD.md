@@ -2,9 +2,9 @@
 
 Saved on 2026-11-05 from a team chat shared by Meet ([claude.ai/share/7702cd69-...](https://claude.ai/share/7702cd69-93fd-42c8-977a-5b3038e42c7d)). That chat updated the deck's 2018 numbers with the 2022 Malaria Indicator Survey, built a regional dashboard, and drafted a storyline that focuses on **Extrême-Nord and Nord**.
 
-**Status of these numbers.** They were copied from that chat and have **not been re-checked** against the sources yet, so treat them as *guessed* in this repo's terms. Add each one to [`sources.csv`](sources.csv) only after reading it in the cited source (mostly the MIS 2022 final report).
+**Status of these numbers.** They were copied from that chat. These have since been **verified** in the [MIS 2022 report](https://dhsprogram.com/pubs/pdf/MIS42/MIS42.pdf) and logged in [`sources.csv`](sources.csv) (rows M01 to M12): the reasons for not seeking care, timely care, any care and blood tests by region, fever prevalence, travel time, women's phones and smartphones, literacy, community health worker awareness, the free-care message, and the 9,107 FCFA average cost. Everything else here, mostly sections 2, 4 and 5, is still *guessed* until checked.
 
-**This file conflicts with the current deck.** The 14-slide deck (see [`CONTEXT.md`](CONTEXT.md)) proposes **Est** as the pilot candidate. This chat ranks Est 4th and recommends **Nord first, then scaling to Extrême-Nord**. The team needs to settle this before the deck goes out. See "Reconciling with the deck" below.
+**How the deck resolved the conflict.** The deck originally proposed **Est**, while this chat recommends **Nord, then Extrême-Nord**. The team decided on 2026-11-05 to show **both Est and Nord** and let MINSANTE choose (deck slide 13, "Two candidate sites"). Section 8 below lists what would change if Nord is chosen.
 
 ## 1. The data situation
 

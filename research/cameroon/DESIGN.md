@@ -1,6 +1,6 @@
 # Cameroon pilot deck: design guide
 
-How the 8-slide Vitamin Bob Cameroon deck is built, so new slides match it. The slides and speaker notes are kept outside this repo. Every number on them has a row in [`sources.csv`](sources.csv).
+How the 17-slide Vitamin Bob Cameroon deck is built, so new slides match it. The slides and speaker notes are kept outside this repo. Every number on them has a row in [`sources.csv`](sources.csv).
 
 Audience: a World Bank health programme lead. The ask is a small, evaluated pilot in one health district.
 
@@ -30,23 +30,34 @@ Fonts: Space Grotesk (titles, body), IBM Plex Mono (labels, sources, numbers in 
 - 12px Cameroon flag stripe across the top of every slide.
 - Label: mono 24px, uppercase, 2px spacing, purple, numbered ("02 · The health system").
 - Title: a full sentence stating the takeaway, 48px bold, line height 1.12, two lines at most.
-- Numbered exhibits run across the deck (Exhibit 1 to 8), with their title at 24px, weight 600.
-- Footer pinned at bottom 56px: clickable sources in mono 24px on one line, page number at right ("03 / 08").
+- Numbered exhibits run across the deck (Exhibit 1 to 17), with their title at 24px, weight 600.
+- Footer pinned at bottom 56px: clickable sources in mono 24px on one line, page number at right ("03 / 17").
 - Nothing under 24px. Status is always said in words as well as colour.
 - Solid green box = in place or built; dashed purple box = gap or adapt.
 
 ## Order
 
-| # | Slide | Exhibits |
-|---|---|---|
-| 1 | Cover and executive summary | |
-| 2 | 01 The access gap | 1 dumbbell by region |
-| 3 | 02 The health system | 2 pyramid, 3 benchmarks |
-| 4 | 03 Tech infrastructure | 4 cable-to-caller chain, 5 benchmarks |
-| 5 | 04 The rails | 6 reach bars, 7 market share |
-| 6 | 05 Readiness by region | 8 weakest-third table |
-| 7 | 06 The product | Six-step flow, alert screenshot |
-| 8 | 07 The proposal | Partners, phases, three asks |
+| # | Id | Slide | Exhibits |
+|---|---|---|---|
+| 1 | `cover` | Cover and executive summary | |
+| 2 | `summary` | Executive summary (need, gap, fit, ask) | |
+| 3 | `moat` | The gap and our moat | Channel comparison table (unnumbered) |
+| 4 | `gap` | 01 The access gap | 1 dumbbell by region |
+| 5 | `why` | 02 Why families skip care | 2 reasons bars (MIS 2022) |
+| 6 | `burden` | 03 The disease burden | 3 deaths by cause, 4 malaria numbers |
+| 7 | `malaria` | 04 Malaria care today | 5 care pathway, 6 programmes |
+| 8 | `health` | 05 The health system | 7 pyramid, 8 benchmarks |
+| 9 | `network` | 06 Tech infrastructure | 9 cable-to-caller chain, 10 benchmarks |
+| 10 | `rails` | 07 The rails | 11 reach bars, 12 market share |
+| 11 | `regions` | 08 Readiness by region | 13 weakest-third table |
+| 12 | `safety` | 09 Security and access | 14 region map |
+| 13 | `sites` | 10 Two candidate sites | 15 Est vs Nord table |
+| 14 | `bob` | 11 The product | Six-step flow, alert screenshot |
+| 15 | `questions` | 12 What we still need to learn | 16 open questions table |
+| 16 | `metrics` | 13 Measuring impact | 17 metrics and baselines |
+| 17 | `pilot` | 14 The proposal | Partners, phases, three asks |
+
+The deck brings two candidate pilot regions, Est and Nord, and asks MINSANTE to choose (decided 2026-11-05). See [`CONTEXT.md`](CONTEXT.md) and [`GRAND_NORD.md`](GRAND_NORD.md).
 
 ## Content rules
 
