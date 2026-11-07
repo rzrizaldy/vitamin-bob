@@ -1,0 +1,31 @@
+indicator,name,area,year,value
+SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",Cameroon,2022,0.14
+SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",Lower middle income,2022,0.71
+SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",Sub-Saharan Africa,2022,0.25
+SH.MED.NUMW.P3,"Nurses and midwives (per 1,000 people)",Cameroon,2022,0.66
+SH.MED.NUMW.P3,"Nurses and midwives (per 1,000 people)",Lower middle income,2022,1.65
+SH.MED.NUMW.P3,"Nurses and midwives (per 1,000 people)",Sub-Saharan Africa,2022,1.62
+SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),Cameroon,2023,79.1
+SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),Lower middle income,2023,84.6
+SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),Sub-Saharan Africa,2023,79.37
+SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),Cameroon,2023,67.65
+SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),Lower middle income,2023,47.01
+SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),Sub-Saharan Africa,2023,30.36
+SH.STA.BRTC.ZS,Births attended by skilled health staff (% of total),Cameroon,2018,69
+SH.STA.BRTC.ZS,Births attended by skilled health staff (% of total),Lower middle income,2019,76.84
+SH.STA.BRTC.ZS,Births attended by skilled health staff (% of total),Sub-Saharan Africa,2019,64.38
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",Cameroon,2024,64.8
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",Lower middle income,2024,43.8
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",Sub-Saharan Africa,2024,71.2
+IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),Cameroon,2024,108.21
+IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),Lower middle income,2025,89.9
+IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),Sub-Saharan Africa,2025,90.4
+IT.NET.USER.ZS,Individuals using the Internet (% of population),Cameroon,2024,46.26
+IT.NET.USER.ZS,Individuals using the Internet (% of population),Lower middle income,2025,62.9
+IT.NET.USER.ZS,Individuals using the Internet (% of population),Sub-Saharan Africa,2025,35.7
+EG.ELC.ACCS.RU.ZS,"Access to electricity, rural (% of rural population)",Cameroon,2024,42.7
+EG.ELC.ACCS.RU.ZS,"Access to electricity, rural (% of rural population)",Lower middle income,2024,88.04
+EG.ELC.ACCS.RU.ZS,"Access to electricity, rural (% of rural population)",Sub-Saharan Africa,2024,35.7
+FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),Cameroon,2024,60.87
+FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),Lower middle income,2024,70.39
+FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),Sub-Saharan Africa,2021,55.07
