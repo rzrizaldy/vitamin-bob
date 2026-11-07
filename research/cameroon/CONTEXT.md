@@ -9,6 +9,7 @@ Speaker notes stay out of this repo (see [`DESIGN.md`](DESIGN.md)). This file su
 | What | Where |
 |---|---|
 | Deck (Claude Slides, private, shared by Rizaldy) | https://claude.ai/artifact/LxWHdT5jeZ7aW7E4kRtgbV |
+| Deck in Canva (team copy, anyone with the link can edit) | https://canva.link/gnmw28dr1ak5rzs (as of 2026-11-07 it holds the earlier 14-slide version) |
 | Repo branch | `rizaldy_cameroon_research`, folder `research/cameroon` |
 | Design guide | [`DESIGN.md`](DESIGN.md) |
 | Research brief | [`README.md`](README.md) |
