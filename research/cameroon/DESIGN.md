@@ -1,6 +1,6 @@
 # Cameroon pilot deck: design guide
 
-How the 8-slide Vitamin Bob Cameroon deck is built, so new slides match it. The slides and speaker notes are kept outside this repo. Every number on them has a row in [`sources.csv`](sources.csv).
+How the 17-slide Vitamin Bob Cameroon deck is built, so new slides match it. The slides and speaker notes are kept outside this repo. Every number on them has a row in [`sources.csv`](sources.csv).
 
 Audience: a World Bank health programme lead. The ask is a small, evaluated pilot in one health district.
 
@@ -30,8 +30,8 @@ Fonts: Space Grotesk (titles, body), IBM Plex Mono (labels, sources, numbers in 
 - 12px Cameroon flag stripe across the top of every slide.
 - Label: mono 24px, uppercase, 2px spacing, purple, numbered ("02 · The health system").
 - Title: a full sentence stating the takeaway, 48px bold, line height 1.12, two lines at most.
-- Numbered exhibits run across the deck (Exhibit 1 to 8), with their title at 24px, weight 600.
-- Footer pinned at bottom 56px: clickable sources in mono 24px on one line, page number at right ("03 / 08").
+- Numbered exhibits run across the deck (Exhibit 1 to 17), with their title at 24px, weight 600.
+- Footer pinned at bottom 56px: clickable sources in mono 24px on one line, page number at right ("03 / 17").
 - Nothing under 24px. Status is always said in words as well as colour.
 - Solid green box = in place or built; dashed purple box = gap or adapt.
 
@@ -40,13 +40,22 @@ Fonts: Space Grotesk (titles, body), IBM Plex Mono (labels, sources, numbers in 
 | # | Slide | Exhibits |
 |---|---|---|
 | 1 | Cover and executive summary | |
-| 2 | 01 The access gap | 1 dumbbell by region |
-| 3 | 02 The health system | 2 pyramid, 3 benchmarks |
-| 4 | 03 Tech infrastructure | 4 cable-to-caller chain, 5 benchmarks |
-| 5 | 04 The rails | 6 reach bars, 7 market share |
-| 6 | 05 Readiness by region | 8 weakest-third table |
-| 7 | 06 The product | Six-step flow, alert screenshot |
-| 8 | 07 The proposal | Partners, phases, three asks |
+| 2 | Executive summary | Four numbered findings: need, gap, fit, ask |
+| 3 | The gap and our moat | Channel comparison table, three moat boxes |
+| 4 | 01 The access gap | 1 dumbbell by region |
+| 5 | 02 Why families skip care | 2 main reason for not seeking care |
+| 6 | 03 The disease burden | 3 deaths by cause, 4 malaria in five numbers |
+| 7 | 04 Malaria care today | 5 care pathway, 6 programmes already running |
+| 8 | 05 The health system | 7 pyramid, 8 benchmarks |
+| 9 | 06 Tech infrastructure | 9 cable-to-caller chain, 10 benchmarks |
+| 10 | 07 The rails | 11 reach bars, 12 market share |
+| 11 | 08 Readiness by region | 13 weakest-third table |
+| 12 | 09 Security and access | 14 first-pilot status map |
+| 13 | 10 Two candidate sites | 15 Est and Nord side by side |
+| 14 | 11 The product | Six-step flow, alert screenshot |
+| 15 | 12 What we still need to learn | 16 open questions |
+| 16 | 13 Measuring impact | 17 outcomes with 2022 baselines |
+| 17 | 14 The proposal | Partners, phases, three asks |
 
 ## Content rules
 
@@ -57,10 +66,15 @@ Fonts: Space Grotesk (titles, body), IBM Plex Mono (labels, sources, numbers in 
 
 ## Photo credits
 
-All from Wikimedia Commons, CC BY-SA 4.0:
+From Wikimedia Commons, CC BY-SA 4.0:
 
 - [Health clinic sign, Nkoulou](https://commons.wikimedia.org/wiki/File:Centre_de_sant%C3%A9_%C3%A0_Nkoulou.jpg), Eric Freyssinge
 - [Patient registration, Ntemndzem](https://commons.wikimedia.org/wiki/File:Consultation_at_the_Catholic_Health_Post_at_Ntemndzem.jpg), Fotang
 - [Phone accessories vendor](https://commons.wikimedia.org/wiki/File:Vendeur_ambulant_d%27accessoires_electroniques.jpg), Minette Lontsie
+
+From Wikimedia Commons, public domain (US President's Malaria Initiative):
+
+- [Children under a bed net, Kribi District](https://commons.wikimedia.org/wiki/File:Children_under_mosquito_net_(26483462482).jpg), PMI/Jhpiego
+- [Nurse counselling a mother, Kribi District](https://commons.wikimedia.org/wiki/File:Jhpiego_3_(26549668746).jpg), PMI/Jhpiego
 
 The dashboard screenshot on the product slide is from the team's India demo, with dummy cases.
