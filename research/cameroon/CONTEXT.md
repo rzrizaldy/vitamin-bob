@@ -41,6 +41,16 @@ What changed:
 
 Every new number was checked in the MIS 2022 report and logged as `sources.csv` rows M01 to M12. Two findings strengthen the free-care clip: free under-5 malaria treatment has been law since 2011 and 2014, yet only 5% of treated children got care free.
 
+## Top 10 causes of death slide (2026-11-07)
+
+Before this change, someone restructured the Claude deck. It now opens with a 9-slide main deck (cover, context, need, map, north, firstsite, bob, pilot, thanks), and the 17-slide research deck follows as an appendix. The new slide goes into the main deck as slide 3, "What people die of", after "In context". The main deck's page numbers now read "N / 10". Apart from one title (below), the appendix is unchanged.
+
+- **Data:** WHO data.who.int country page for Cameroon: top 10 causes of death, deaths per 100,000 people, 2023 (Global Health Estimates). These are rows W01 to W05 in `sources.csv`. The speaker notes give the separate figures for women and for men.
+- **Message:** lower respiratory infections (1), diarrhoea (3) and malaria (4) all start with a cough, diarrhoea or fever. Those are the three symptoms in Bob's draft protocol (`bob/vitamin_bob/protocol.py`). Together they cause about 45,000 deaths a year (calculated, inferred).
+- **Gap named on the slide:** Bob's rules don't cover stroke (2) or newborn causes (preterm birth 6, birth asphyxia 9) yet. Both need clinician review.
+- **Appendix fix:** the disease burden slide's title said "malaria leads", but WHO ranks malaria fourth. The title now reads "Infections still cause half of all deaths, and malaria alone brings about 3 million cases a year to health facilities".
+- **Open:** the appendix's Exhibit 3 still uses the World Bank's 2019 split (52 / 38 / 10). WHO's 2023 split is 52.2 / 40.0 / 7.8.
+
 ## First pass: 14 slides
 
 | # | Id | Label | Takeaway | Exhibits | Origin |

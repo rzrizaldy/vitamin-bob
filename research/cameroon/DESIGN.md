@@ -57,6 +57,8 @@ Fonts: Space Grotesk (titles, body), IBM Plex Mono (labels, sources, numbers in 
 | 16 | `metrics` | 13 Measuring impact | 17 metrics and baselines |
 | 17 | `pilot` | 14 The proposal | Partners, phases, three asks |
 
+Since 2026-11-07 the Claude deck opens with a 10-slide main deck: cover, context, causes, need, map, north, firstsite, bob, pilot, thanks. It has pages "N / 10", larger 56px titles and no exhibit numbers. The 17 slides above follow it as an appendix. The main deck's top 10 causes of death slide (`causes`) uses data from WHO data.who.int; see [`CONTEXT.md`](CONTEXT.md).
+
 The deck brings two candidate pilot regions, Est and Nord, and asks MINSANTE to choose (decided 2026-11-05). See [`CONTEXT.md`](CONTEXT.md) and [`GRAND_NORD.md`](GRAND_NORD.md).
 
 ## Content rules
